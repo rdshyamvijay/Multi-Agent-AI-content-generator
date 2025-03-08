@@ -17,7 +17,7 @@ Technologies Used
 
 Installation
 	1.	Clone the repository:
-git clone https://github.com/YOUR_USERNAME/Multi-Agent-AI-content-generator.git
+git clone https://github.com/rdshyamvijay/Multi-Agent-AI-content-generator.git
 	2.	Navigate into the project directory:
 cd Multi-Agent-AI-content-generator
 	3.	Install required dependencies:
