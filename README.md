@@ -28,7 +28,8 @@ Create a .env file in the root directory and add your API keys as follows:
 OPENAI_API_KEY=your_openai_api_key_here
 SERPER_API_KEY=your_serper_api_key_here
 
-Replace your_openai_api_key_here and your_serper_api_key_here with your actual API keys.
+Replace your_openai_api_key_here and 
+	your_serper_api_key_here with your actual API keys.
 
 How It Works
 	1.	The Planner Agent gathers information on a given topic and creates an outline.
